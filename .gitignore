@@ -7,5 +7,6 @@
 # local env files
 .env*.local
 
-# model files
+# specific files
 models/
+prompts.yaml
